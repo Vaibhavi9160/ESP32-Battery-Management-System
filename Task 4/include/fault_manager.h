@@ -1,0 +1,21 @@
+#ifndef FAULT_MANAGER_H
+#define FAULT_MANAGER_H
+
+enum RuntimeMode
+{
+    MODE_NORMAL,
+    MODE_DEGRADED,
+    MODE_FAILSAFE,
+    MODE_SHUTDOWN
+};
+
+enum FaultType
+{
+    NO_FAULT,
+    INVALID_READING,
+    FROZEN_ADC,
+    SENSOR_DISCONNECTED,
+    RELAY_MISMATCH
+};
+
+#endif
