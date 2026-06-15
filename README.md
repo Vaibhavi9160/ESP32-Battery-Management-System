@@ -4,7 +4,7 @@
 
 This project implements a Battery Management System (BMS) using the ESP32 microcontroller. The system monitors battery cell voltages, detects abnormal operating conditions, provides local Human Machine Interface (HMI) functionality, performs fault diagnostics, and enables cloud-based monitoring through the Blynk IoT platform.
 
-The project was developed as part of an Embedded Systems and IoT Internship Program and is organized into six progressive tasks covering monitoring, safety, diagnostics, cloud telemetry, and dashboard analytics.
+The project was developed as part of an Embedded Systems Internship Program and is organized into six progressive tasks covering monitoring, safety, diagnostics, cloud telemetry, and dashboard analytics.
 
 ---
 
