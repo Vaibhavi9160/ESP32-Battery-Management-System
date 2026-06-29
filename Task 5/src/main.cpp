@@ -158,7 +158,7 @@ void loop()
             recommendation
         );
 
-        Serial.println("Dashboard Data Sent");
+    
         Serial.println(runtime);
         Serial.println(risk);
         Serial.println(diagnostics);

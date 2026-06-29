@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "D:/Elevanceskills technology/Task 2/include",
-                "D:/Elevanceskills technology/Task 2/src",
-                "D:/Elevanceskills technology/Task 2/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
+                "D:/Elevanceskills Technology/Task 2/include",
+                "D:/Elevanceskills Technology/Task 2/src",
+                "D:/Elevanceskills Technology/Task 2/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
                 "C:/Users/Vaibhavi BH/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/Vaibhavi BH/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/Vaibhavi BH/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -245,9 +245,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "D:/Elevanceskills technology/Task 2/include",
-                    "D:/Elevanceskills technology/Task 2/src",
-                    "D:/Elevanceskills technology/Task 2/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
+                    "D:/Elevanceskills Technology/Task 2/include",
+                    "D:/Elevanceskills Technology/Task 2/src",
+                    "D:/Elevanceskills Technology/Task 2/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
                     "C:/Users/Vaibhavi BH/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/Vaibhavi BH/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/Vaibhavi BH/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
